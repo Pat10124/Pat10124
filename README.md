@@ -4,7 +4,7 @@
 
 ## I currently have two working projects.
 
-### The first project I'm working on a combat mod for Dragon Age Inquisition. 
+### The first project I'm working on is a combat mod for Dragon Age Inquisition. 
 It's goal is to provide better melee combot for the Mage class in the vein of Draogon Age 2, where you could use both single focus and AoE attacks based on enemy range from the player.
 
 ### My second project is my first game: "DoG". 
